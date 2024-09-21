@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex20092024/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex20092024/Triangle_Classifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex20092024/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept/ex20092024/Ternary_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex20092024/Ternary_operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
   "keyToString": {
     "Application.FizzBuzz.executor": "Run",
     "Application.Hello_World.executor": "Run",
+    "Application.Strings.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Type_casting.executor": "Run",
@@ -66,7 +65,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ternary_operator">
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept.ex20092024.FizzBuzz" />
       <module name="ATB8xJavaProgramme" />
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello_World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex06092024.Hello_World" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex20092024.Strings" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex06092024.*" />
+          <option name="PATTERN" value="sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Ternary_operator" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Triangle_Classifier" />
         <item itemvalue="Application.Type_casting" />
-        <item itemvalue="Application.Hello_World" />
       </list>
     </recent_temporary>
   </component>
