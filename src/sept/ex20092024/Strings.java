@@ -8,7 +8,7 @@ public class Strings {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         double d = scan.nextDouble();
-        scan.nextLine();
+        scan.nextLine(); // this is needed to clear the line after int taken from scaner
         String s = scan.nextLine();
 
         System.out.println("String: " + s);
