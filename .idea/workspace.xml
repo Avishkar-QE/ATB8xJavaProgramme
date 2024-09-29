@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex20092024/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex72092024/First_5_Even_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex72092024/Sum_from_1to100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +53,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.First_5_Even_numbers.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Hello_World.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.Sum_from_1to100.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Type_casting.executor": "Run",
@@ -62,10 +65,23 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Avishkar/IdeaProjects/ATB8xJavaProgramme/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Strings">
+  <component name="RunManager" selected="Application.Sum_from_1to100">
+    <configuration name="First_5_Even_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex72092024.First_5_Even_numbers" />
+      <module name="ATB8xJavaProgramme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex72092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept.ex20092024.FizzBuzz" />
       <module name="ATB8xJavaProgramme" />
@@ -92,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum_from_1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex72092024.Sum_from_1to100" />
+      <module name="ATB8xJavaProgramme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex72092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ternary_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept.ex20092024.Ternary_operator" />
       <module name="ATB8xJavaProgramme" />
@@ -105,39 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_Classifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex20092024.Triangle_Classifier" />
-      <module name="ATB8xJavaProgramme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sept.ex20092024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Type_casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex18092024.Type_casting" />
-      <module name="ATB8xJavaProgramme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sept.ex18092024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum_from_1to100" />
+        <item itemvalue="Application.First_5_Even_numbers" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Ternary_operator" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Triangle_Classifier" />
-        <item itemvalue="Application.Type_casting" />
       </list>
     </recent_temporary>
   </component>
