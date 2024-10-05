@@ -3,7 +3,7 @@ package logical;
 public class Prime_Number {
     public static void main(String[] args)
     {
-        int n = 117;
+        int n = 41;
         int count = 0;
 
         for (int i=1;i<=n;i++)

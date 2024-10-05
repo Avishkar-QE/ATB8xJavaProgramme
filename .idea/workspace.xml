@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/logical/Prime_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logical/Prime_Number_from_1to100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logical/Prime_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logical/Prime_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
     "Application.FizzBuzz.executor": "Run",
     "Application.Hello_World.executor": "Run",
     "Application.Prime_Number.executor": "Run",
+    "Application.Prime_Number_from_1to100.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Sum_from_1to100.executor": "Run",
     "Application.Swap_two_numbers.executor": "Run",
@@ -69,13 +72,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Prime_Number">
-    <configuration name="First_5_Even_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex72092024.First_5_Even_numbers" />
+  <component name="RunManager" selected="Application.Prime_Number_from_1to100">
+    <configuration name="Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex72092024.*" />
+          <option name="PATTERN" value="logical.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number" />
+    <configuration name="Prime_Number_from_1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number_from_1to100" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime_Number_from_1to100" />
         <item itemvalue="Application.Prime_Number" />
         <item itemvalue="Application.To_check_vowel_in_string" />
         <item itemvalue="Application.Swap_two_numbers" />
         <item itemvalue="Application.Sum_from_1to100" />
-        <item itemvalue="Application.First_5_Even_numbers" />
       </list>
     </recent_temporary>
   </component>
