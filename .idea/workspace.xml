@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/logical/Swap_two_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logical/Prime_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +54,12 @@
     "Application.First_5_Even_numbers.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Hello_World.executor": "Run",
+    "Application.Prime_Number.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Sum_from_1to100.executor": "Run",
     "Application.Swap_two_numbers.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
+    "Application.To_check_vowel_in_string.executor": "Run",
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Type_casting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,7 +69,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.To_check_vowel_in_string">
+  <component name="RunManager" selected="Application.Prime_Number">
     <configuration name="First_5_Even_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept.ex72092024.First_5_Even_numbers" />
       <module name="ATB8xJavaProgramme" />
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex20092024.Strings" />
+    <configuration name="Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex20092024.*" />
+          <option name="PATTERN" value="logical.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime_Number" />
         <item itemvalue="Application.To_check_vowel_in_string" />
         <item itemvalue="Application.Swap_two_numbers" />
         <item itemvalue="Application.Sum_from_1to100" />
         <item itemvalue="Application.First_5_Even_numbers" />
-        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
