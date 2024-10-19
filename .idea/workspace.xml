@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/october/abstraction/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/october/abstraction/PrintBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/october/abstraction/abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/october/encapsulation/Hider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/october/encapsulation/Implimentation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logical/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logical/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "Application.First_5_Even_numbers.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Hello_World.executor": "Run",
+    "Application.Implimentation.executor": "Run",
     "Application.Prime_Number.executor": "Run",
     "Application.Prime_Number_from_1to100.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -76,13 +75,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.abstraction">
+  <component name="RunManager" selected="Application.Implimentation">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logical.Factorial" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="logical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implimentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="october.encapsulation.Implimentation" />
+      <module name="ATB8xJavaProgramme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="october.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="To_check_vowel_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.To_check_vowel_in_string" />
-      <module name="ATB8xJavaProgramme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="october.abstraction.abstraction" />
       <module name="ATB8xJavaProgramme" />
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Implimentation" />
         <item itemvalue="Application.abstraction" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Prime_Number_from_1to100" />
         <item itemvalue="Application.Prime_Number" />
-        <item itemvalue="Application.To_check_vowel_in_string" />
       </list>
     </recent_temporary>
   </component>
