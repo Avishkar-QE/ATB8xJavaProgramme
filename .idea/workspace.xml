@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bae6a500-6fa6-4721-b279-7b7be71314ed" name="Changes" comment="Hello_World programme">
-      <change afterPath="$PROJECT_DIR$/src/october/encapsulation/Hider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/october/encapsulation/Implimentation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/october/encapsulation/example/ICICIBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/october/encapsulation/example/ICICIBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/october/encapsulation/example/Userface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/october/encapsulation/example/Userface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
     "Application.To_check_vowel_in_string.executor": "Run",
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Type_casting.executor": "Run",
+    "Application.Userface.executor": "Run",
     "Application.abstraction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,7 +76,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Implimentation">
+  <component name="RunManager" selected="Application.Userface">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logical.Factorial" />
       <module name="ATB8xJavaProgramme" />
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number" />
+    <configuration name="Prime_Number_from_1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number_from_1to100" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime_Number_from_1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical.Prime_Number_from_1to100" />
+    <configuration name="Userface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="october.encapsulation.example.Userface" />
       <module name="ATB8xJavaProgramme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logical.*" />
+          <option name="PATTERN" value="october.encapsulation.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Userface" />
         <item itemvalue="Application.Implimentation" />
         <item itemvalue="Application.abstraction" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Prime_Number_from_1to100" />
-        <item itemvalue="Application.Prime_Number" />
       </list>
     </recent_temporary>
   </component>
