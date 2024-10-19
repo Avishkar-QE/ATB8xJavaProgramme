@@ -2,7 +2,7 @@ package logical;
 
 public class Factorial {
     public static void main(String[] args) {
-        int number = 153;
+        int number = 145;
         int sum = sumOfFactorialOfDigits(number);
         System.out.println("The sum of the factorial of each digit in " + number + " is: " + sum);
     }
